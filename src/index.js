@@ -1,3 +1,1 @@
-import foo from "characteristics";
-
-console.log(foo());
+console.log('START HERE');
